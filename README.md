@@ -26,9 +26,9 @@ Este proyecto en Java permite gestionar productos y crear pedidos con esos produ
 
  Instrucciones para correr el proyecto
 
- Clonar el repositorio o copiar los archivos en una carpeta local.
- Correr el archivo Java llamado Main
- Interactuar con las 4 opciones
+- Clonar el repositorio o copiar los archivos en una carpeta local.
+- Correr el archivo Java llamado Main.
+- Interactuar con las 4 opciones
 
 
 
