@@ -26,8 +26,9 @@ Este proyecto en Java permite gestionar productos y crear pedidos con esos produ
 
  Instrucciones para correr el proyecto
 
-1. Clonar el repositorio o copiar los archivos en una carpeta local.
-2. Desde la terminal, navegar a la carpeta raíz donde está el `pom.xml`.
-3. Ejecutar:
+ Clonar el repositorio o copiar los archivos en una carpeta local.
+ Correr el archivo Java llamado Main
+ Interactuar con las 4 opciones
+
 
 
